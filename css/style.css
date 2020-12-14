@@ -372,7 +372,7 @@ header .top-bar{
 /*9.0 Proccedure Section Start*/
 
 .proccedure{
-    background-color: #fff;
+    background-color: #F9F9F9;
 }
 
 .proccedure .bg-text{
@@ -510,6 +510,7 @@ header .top-bar{
 
 .staff{
     padding: 70px 0px;
+	background-color: #F9F9F9;
 }
 
 .staff h2{
